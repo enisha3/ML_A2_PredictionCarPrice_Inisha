@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/329675350533377041/8e6f8e770ad541289bcc1d296ad3a2cf/artifacts
+end_time: 1739554852457
+entry_point_name: ''
+experiment_id: '329675350533377041'
+lifecycle_stage: active
+run_id: 8e6f8e770ad541289bcc1d296ad3a2cf
+run_name: method-mini-lr-0.001-reg-Lasso-poly-False-momentum-0.0-weight-['zeros',
+  'xavier']
+run_uuid: 8e6f8e770ad541289bcc1d296ad3a2cf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739554846876
+status: 3
+tags: []
+user_id: st125563-Inisha

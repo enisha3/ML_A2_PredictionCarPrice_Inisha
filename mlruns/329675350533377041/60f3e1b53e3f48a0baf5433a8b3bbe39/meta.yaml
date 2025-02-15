@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/329675350533377041/60f3e1b53e3f48a0baf5433a8b3bbe39/artifacts
+end_time: 1739556500553
+entry_point_name: ''
+experiment_id: '329675350533377041'
+lifecycle_stage: active
+run_id: 60f3e1b53e3f48a0baf5433a8b3bbe39
+run_name: method-batch-lr-0.01-reg-ElasticNet-poly-True-momentum-0.0-weight-['zeros',
+  'xavier']
+run_uuid: 60f3e1b53e3f48a0baf5433a8b3bbe39
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739556483492
+status: 3
+tags: []
+user_id: st125563-Inisha

@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/329675350533377041/29ac660b71214dc5895f44228f506789/artifacts
+end_time: 1739618059943
+entry_point_name: ''
+experiment_id: '329675350533377041'
+lifecycle_stage: active
+run_id: 29ac660b71214dc5895f44228f506789
+run_name: method-batch-lr-0.001-reg-Normal-poly-False-momentum-0.0-weight-['zeros',
+  'xavier']
+run_uuid: 29ac660b71214dc5895f44228f506789
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739618039452
+status: 3
+tags: []
+user_id: st125563-Inisha

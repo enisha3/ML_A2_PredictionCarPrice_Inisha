@@ -1,0 +1,28 @@
+artifact_path: model
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.12.5
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.6.1
+is_signature_from_type_hint: false
+mlflow_version: 2.20.1
+model_size_bytes: 13446
+model_uuid: 1e75f3bbdd5946c3a099023e0829701a
+run_id: 0b993e896d994a4489bec65202fb5841
+signature:
+  inputs: '[{"type": "double", "name": "engine", "required": true}, {"type": "double",
+    "name": "mileage", "required": true}, {"type": "double", "name": "km_driven",
+    "required": true}, {"type": "double", "name": "year", "required": true}]'
+  outputs: '[{"type": "double", "required": true}]'
+  params: null
+type_hint_from_example: false
+utc_time_created: '2025-02-14 17:36:55.745218'

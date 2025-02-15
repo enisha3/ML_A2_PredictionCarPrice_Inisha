@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/329675350533377041/d7e4db9b9b5244d49057893d886ec3e7/artifacts
+end_time: 1739554006007
+entry_point_name: ''
+experiment_id: '329675350533377041'
+lifecycle_stage: active
+run_id: d7e4db9b9b5244d49057893d886ec3e7
+run_name: method-batch-lr-0.01-reg-Ridge-poly-False-momentum-0.5-weight-['zeros',
+  'xavier']
+run_uuid: d7e4db9b9b5244d49057893d886ec3e7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739553994362
+status: 3
+tags: []
+user_id: st125563-Inisha

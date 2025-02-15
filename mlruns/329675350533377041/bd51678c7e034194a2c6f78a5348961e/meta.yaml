@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/329675350533377041/bd51678c7e034194a2c6f78a5348961e/artifacts
+end_time: 1739556704135
+entry_point_name: ''
+experiment_id: '329675350533377041'
+lifecycle_stage: active
+run_id: bd51678c7e034194a2c6f78a5348961e
+run_name: Fold-0
+run_uuid: bd51678c7e034194a2c6f78a5348961e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739556698993
+status: 3
+tags: []
+user_id: st125563-Inisha
