@@ -1,0 +1,4 @@
+mlruns/
+mlartifacts/
+.vscode-server/
+model/
